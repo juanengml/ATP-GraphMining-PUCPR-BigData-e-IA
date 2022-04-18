@@ -1,2 +1,1 @@
-# ATP-GraphMining-PUCPR-BigData-e-IA
-ATP / Somativo 2 Pucpr Bigdata e inteligencia analitica
+# GraphMining PUCPR BigData e Inteligencia Analitica
